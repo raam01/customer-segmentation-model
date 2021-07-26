@@ -9,4 +9,4 @@ This repository consists of the customer segmentation model done for an retail c
 and combined back to form 3 clusters. This kind of clustering is helpful in grouping customers and targetting a segment to increase revenue & growth.
 
 1. Recency distribution
-https://github.com/raam01/customer-segmentation-model/blob/main/recency.JPG
+(https://github.com/raam01/customer-segmentation-model/blob/main/recency.JPG)
